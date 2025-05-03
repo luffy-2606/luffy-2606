@@ -13,7 +13,6 @@
 
 # 📊 GitHub Stats:
 
-## 🔥 Current Streak
 <div align="center">
   <img height="200em" src="https://streak-stats.demolab.com?user=luffy-2606&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
 </div>
