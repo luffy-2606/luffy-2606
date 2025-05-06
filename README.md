@@ -3,7 +3,8 @@
 📊 Data Science student at FAST NUCES<br/>
 🧮 Finance Manager at Time Technologies LLC<br/>
 🧑‍🧑‍🧒‍🧒 Connect with me on [LinkedIn](https://www.linkedin.com/in/saaifsuleman/)<br/>
-👾 Follow me on [Instagram](https://www.instagram.com/dxku.v/)
+👾 Follow me on [Instagram](https://www.instagram.com/dxku.v/)<br/>
+✉️ Email me anything: luffy2606@proton.me
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dxku.v) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saaifsuleman) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/757835231456657428)
