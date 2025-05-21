@@ -7,12 +7,44 @@
 ✉️ Email me anything: luffy2606@proton.me
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dxku.v) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saaifsuleman) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/757835231456657428)
-![](https://komarev.com/ghpvc/?username=luffy-2606)
+<p align="center">
+  <a href="https://instagram.com/dxku.v">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/saaifsuleman">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com/users/757835231456657428">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="Discord" width="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://open.spotify.com/user/31kxbdrjeajv53gfu5ouzzwtp7ri">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174872.png" alt="Spotify" width="50" />
+  </a>
+</p>
 
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" height="60" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" width="70" height="70"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="60" height="60" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="70" height="70"/>
+</p>
+
 
 # 📊 GitHub Stats:
 
@@ -24,3 +56,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luffy-2606&theme=github_dark&hide_border=true&show_icons=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luffy-2606&theme=github_dark&hide_border=true&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=8B949E"/>
 </div>
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=luffy-2606" alt="Profile views"/>
+</div>
+
+
