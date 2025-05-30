@@ -1,12 +1,6 @@
 ## Hi, I'm Saaif
 
-📊 Data Science student at FAST NUCES<br/>
-🧮 Finance Manager at Time Technologies LLC<br/>
-🧑‍🧑‍🧒‍🧒 Connect with me on [LinkedIn](https://www.linkedin.com/in/saaifsuleman/)<br/>
-👾 Follow me on [Instagram](https://www.instagram.com/dxku.v/)<br/>
-✉️ Email me anything: luffy2606@proton.me
-
-## 🌐 Socials:
+# 🌐 Socials:
 <p align="center">
   <a href="https://instagram.com/dxku.v">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="50" />
