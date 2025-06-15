@@ -1,4 +1,19 @@
-## Hi, I'm Saaif
+## 💫 About Me:
+My name is Saaif. I'm a Data Science student at
+FAST NUCES Lahore.
+
+- Founder and CEO of Shiromi
+- Software Engineer Intern at [Time Technologies LLC](https://timetechnologiesllc.com)      
+- Administrative and Financial Head of [Centaurus Academy](https://centaurusacademy.com)      
+      
+I'm passionate about community building and inspiring other students.     
+I also believe in lifelong learning, so I enjoy exploring various technologies.      
+      
+🌍  I'm based in Lahore, Pakistan      
+🖥️  See my portfolio at this [website](https://saaif.vercel.app)      
+✉️  You can contact me at saaifsuleman21@gmail.com      
+🧠  I'm into Software Engineering, AI, DevOps, and Game Development      
+
 
 # 🌐 Socials:
 <p align="center">
@@ -19,8 +34,7 @@
   </a>
 </p>
 
-
-# 💻 Tech Stack:
+# 💻 Technologies I have worked with:
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60" />
   &nbsp;&nbsp;&nbsp;
@@ -37,8 +51,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="60" height="60" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="70" height="70"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="60" height="60"/>
+  &nbsp;&nbsp;&nbsp;
+<img src="https://img.icons8.com/fluency/48/json.png" alt="JSONbin" width="60" height="60"/>
 </p>
-
 
 # 📊 GitHub Stats:
 
@@ -53,5 +72,3 @@
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=luffy-2606" alt="Profile views"/>
 </div>
-
-
