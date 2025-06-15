@@ -1,6 +1,6 @@
 ## 💫 About Me:
-My name is Saaif. I'm a Data Science student at
-FAST NUCES Lahore.
+My name is [Saaif](https://saaif.vercel.app)            
+I'm a Data Science student at FAST NUCES Lahore.
 
 - Founder and CEO of Shiromi
 - Software Engineer Intern at [Time Technologies LLC](https://timetechnologiesllc.com)      
