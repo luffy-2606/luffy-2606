@@ -11,10 +11,10 @@ I also believe in lifelong learning, so I enjoy exploring various technologies.
       
 🌍  I'm based in Lahore, Pakistan      
 🖥️  See my portfolio at this [website](https://saaif.vercel.app)      
-✉️  You can contact me at saaifsuleman21@gmail.com      
+✉️  Connect with me on [LinkedIn](https://linkedin.com/in/saaifsuleman)       
 🧠  I'm into Software Engineering, AI, DevOps, and Game Development      
 
-
+<!--
 # 🌐 Socials:
 <p align="center">
   <a href="https://instagram.com/dxku.v">
@@ -33,6 +33,7 @@ I also believe in lifelong learning, so I enjoy exploring various technologies.
     <img src="https://cdn-icons-png.flaticon.com/512/174/174872.png" alt="Spotify" width="50" />
   </a>
 </p>
+-->
 
 # 💻 Technologies I have worked with:
 <p align="center">
@@ -56,8 +57,11 @@ I also believe in lifelong learning, so I enjoy exploring various technologies.
   &nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="60" height="60"/>
   &nbsp;&nbsp;&nbsp;
-<img src="https://img.icons8.com/fluency/48/json.png" alt="JSONbin" width="60" height="60"/>
+  <img src="https://img.icons8.com/fluency/48/json.png" alt="JSONbin" width="60" height="60"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="60" height="60"/>
 </p>
+
 
 # 📊 GitHub Stats:
 
