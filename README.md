@@ -64,10 +64,11 @@ I also believe in lifelong learning, so I enjoy exploring various technologies.
 
 
 # 📊 GitHub Stats:
-
+<!--
 <div align="center">
-  <img height="200em" src="https://streak-stats.demolab.com?user=luffy-2606&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+              <img height="200em" src="https://streak-stats.demolab.com?user=luffy-2606&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
 </div>
+-->
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luffy-2606&theme=github_dark&hide_border=true&show_icons=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E"/>
