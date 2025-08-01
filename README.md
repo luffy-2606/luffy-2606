@@ -3,9 +3,10 @@ My name is [Saaif Suleman](https://saaif.vercel.app)
 I'm a Data Science student at FAST NUCES Lahore.
 
 - Founder and CEO of Shiromi
-- AI Web Development Intern at [Nexium](https://nexium.ltd)
 - Software Engineer Intern at [Time Technologies LLC](https://timetechnologiesllc.com)      
-- Administrative and Financial Head of [Centaurus Academy](https://centaurusacademy.com)      
+- Administrative and Financial Head of [Centaurus Academy](https://centaurusacademy.com)
+- Ex-AI Web Development Intern at [Nexium](https://nexium.ltd)
+
       
 I'm passionate about community building and inspiring other students.     
 I also believe in lifelong learning, so I enjoy exploring various technologies.      
