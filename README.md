@@ -5,7 +5,7 @@ I'm a Data Science student at FAST NUCES Lahore.
 - Founder and CEO of Shiromi
 - Software Engineer Intern at [Time Technologies LLC](https://timetechnologiesllc.com)      
 - Administrative and Financial Head of [Centaurus Academy](https://centaurusacademy.com)
-- Ex-AI Web Development Intern at [Nexium](https://nexium.ltd)
+- xAI Web Development Intern at [Nexium](https://nexium.ltd)
 
       
 I'm passionate about community building and inspiring other students.     
