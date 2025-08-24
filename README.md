@@ -37,7 +37,7 @@ I also believe in lifelong learning, so I enjoy exploring various technologies.
 </p>
 -->
 
-# 💻 Technologies I have worked with:
+# Technologies I have worked with:
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60" />
   &nbsp;&nbsp;&nbsp;
@@ -70,7 +70,7 @@ I also believe in lifelong learning, so I enjoy exploring various technologies.
 
 
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 <!--
 <div align="center">
               <img height="200em" src="https://streak-stats.demolab.com?user=luffy-2606&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
