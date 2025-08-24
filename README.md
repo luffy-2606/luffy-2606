@@ -62,7 +62,12 @@ I also believe in lifelong learning, so I enjoy exploring various technologies.
   <img src="https://img.icons8.com/fluency/48/json.png" alt="JSONbin" width="60" height="60"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="60" height="60"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="70" height="70"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"/>
 </p>
+
 
 
 # 📊 GitHub Stats:
