@@ -1,5 +1,5 @@
 ## 💫 About Me:
-My name is [Saaif Suleman](https://saaif.vercel.app)            
+My name is [Saaif Suleman](https://linkedin.com/in/saaifsuleman)             
 I'm a Data Science student at FAST NUCES Lahore.
 
 - Founder and CEO of Shiromi
@@ -12,7 +12,6 @@ I'm passionate about community building and inspiring other students.
 I also believe in lifelong learning, so I enjoy exploring various technologies.      
       
 ‣ I'm based in Lahore, Pakistan      
-‣ See my portfolio at this [website](https://saaif.vercel.app)      
 ‣ Connect with me on [LinkedIn](https://linkedin.com/in/saaifsuleman)       
 ‣ I'm into Software Engineering, AI, DevOps, and Game Development      
 
