@@ -1,17 +1,15 @@
 ## 💫 About Me:
 My name is [Saaif Suleman](https://linkedin.com/in/saaifsuleman)             
-I'm a Data Science student at FAST NUCES Lahore.
 
 - Founder and CEO of Shiromi
-- Software Engineer Intern at [Time Technologies LLC](https://timetechnologiesllc.com)      
+- Software Engineer at [Time Technologies LLC](https://timetechnologiesllc.com)      
 - Administrative and Financial Head of [Centaurus Academy](https://centaurusacademy.com)
 - xAI Web Development Intern at [Nexium](https://nexium.ltd)
 
       
-I'm passionate about community building and inspiring other students.     
-I also believe in lifelong learning, so I enjoy exploring various technologies.      
+Message me any good *Japanese music* recommendations.             
+I listen to mostly anything. **Check out my playlist** [here.](https://youtube.com/playlist?list=PLATzpLkOGOSkhrrgmR_wpxhZ5DWB3ZKPJ&si=Nff9OuqsgHGN5YOb)
       
-‣ I'm based in Lahore, Pakistan      
 ‣ Connect with me on [LinkedIn](https://linkedin.com/in/saaifsuleman)       
 ‣ I'm into Software Engineering, AI, DevOps, and Game Development      
 
@@ -68,18 +66,18 @@ I also believe in lifelong learning, so I enjoy exploring various technologies.
 </p>
 
 
-
-# GitHub Stats:
 <!--
+# GitHub Stats:
 <div align="center">
               <img height="200em" src="https://streak-stats.demolab.com?user=luffy-2606&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
 </div>
 -->
 
-<div align="center">
+<!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luffy-2606&theme=github_dark&hide_border=true&show_icons=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luffy-2606&theme=github_dark&hide_border=true&layout=compact&bg_color=0D1117&title_color=58A6FF&text_color=8B949E"/>
-</div>
+</div> -->
+---
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=luffy-2606" alt="Profile views"/>
 </div>
