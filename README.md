@@ -34,6 +34,7 @@ I listen to mostly anything. **Check out my playlist** [here.](https://youtube.c
 </p>
 -->
 
+<!--
 # Technologies I have worked with:
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60" />
@@ -64,6 +65,7 @@ I listen to mostly anything. **Check out my playlist** [here.](https://youtube.c
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"/>
 </p>
+-->
 
 
 <!--
