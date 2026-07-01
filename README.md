@@ -1,7 +1,7 @@
 ## 💫 About Me:
 My name is [Saaif Suleman](https://saaif.vercel.app)             
 
-- Founder and CEO of Shiromi
+- Founder and CEO of [Shiromi](https://www.shiromi.co)
 - Software Engineer at [Time Technologies LLC](https://timetechnologiesllc.com)      
 - Administrative and Financial Head of [Centaurus Academy](https://centaurusacademy.com)
 - xAI Web Development Intern at [Nexium](https://nexium.ltd)
